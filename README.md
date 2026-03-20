@@ -6,3 +6,10 @@
  - UDS 프로토콜 및 메모리 스택 통합한 리프로그래밍 BSW 아키텍처를 설계
  - 업데이트 중 예기치 못한 오류 상황에서 제어기가 불능 상태에 빠지는 것을 차단하기 위해, 링커 스크립트에서 메모리 맵을 획정하고 부트로더와 어플리케이션 영역을 분리
  - 디지털 서명검증(SHA-256)을 통해 데이터의 무결성과 출처를 검증
+
+<p align="center">
+<img src="https://img.shields.io/badge/Platform-Infineon_AURIX_TC23x-red?style=flat-square">
+<img src="https://img.shields.io/badge/Architecture-AUTOSAR_Layered-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Protocol-UDS_ISO14229-green?style=flat-square">
+<img src="https://img.shields.io/badge/Security-SHA--256-orange?style=flat-square">
+</p>
